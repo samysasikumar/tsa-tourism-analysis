@@ -83,7 +83,7 @@ Open-source datasets and basic statistical tools can yield meaningful insights i
 |---|---|
 | `README.md` | This document |
 | `API_ST_INT_ARVL_DS2_en_csv_v2_8599.csv` | World Bank source data (all countries, 1960–2020) |
-| `Tourism_Analysis_Poster_Report.docx` | Full scientific poster report |
+| `Tourism_Analysis_Report.docx` | Full scientific poster report |
 
 ---
 
